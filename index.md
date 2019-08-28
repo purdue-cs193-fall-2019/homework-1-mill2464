@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Elise's HW
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,11 +15,12 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- This
+- is
+- a
+- bulleted
+- list
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
